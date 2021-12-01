@@ -1,5 +1,7 @@
 # M1-Maths-Algo
 
+<img src="https://drive.google.com/uc?id=12Wo3LubGGT4qOvYFAuLP4CyCuwjKNVuk" width="230" height="150" align = "right"/>
+
 ## **Algorithmes des programmes de 1<sup>ère</sup> et Terminale et implémentations en  Python**
 
 * **TP Approximations**
