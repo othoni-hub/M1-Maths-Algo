@@ -6,7 +6,7 @@
 
 * **TP Approximations**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/M_1e_Tale_Approximations_numeriques.ipynb /HEAD?filepath=TP_Développement_conduit_par_les_tests.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/M_1e_Tale_Approximations_numeriques.ipynb/HEAD?filepath=TP_Développement_conduit_par_les_tests.ipynb)
 
 * **Suites**
 
