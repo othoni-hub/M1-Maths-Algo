@@ -6,8 +6,7 @@
 
 * **TP Approximations** https://github.com/othoni-hub/M1-Maths-Algo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo
-//HEAD?filepath=M_1e_Tale_Approximations_numeriques.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Approximations_numeriques.ipynb)
 
 * **Suites**
 
