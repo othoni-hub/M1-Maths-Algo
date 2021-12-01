@@ -1,6 +1,6 @@
 # M1-Maths-Algo
 
-## **Algorithmes des programmes de 1<sup>ère</sup> et Terminale et implémentations en  Python **
+## **Algorithmes des programmes de 1<sup>ère</sup> et Terminale et implémentations en  Python**
 
 * **TP Approximations**
 
