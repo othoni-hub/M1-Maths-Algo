@@ -14,16 +14,16 @@
 
 * **TP Aires**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Approximations_numeriques.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Aires.ipynb)
 
 * **TP Aléatoire 1**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Approximations_numeriques.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Aleatoire1.ipynb)
 
 * **TP Aléatoire 2**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Approximations_numeriques.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Aleatoire2.ipynb)
 
 * **TP Aléatoire 3**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Approximations_numeriques.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Aleatoire3.ipynb)
