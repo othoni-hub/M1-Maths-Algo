@@ -27,3 +27,9 @@
 * **TP Aléatoire 3**
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Aleatoire3.ipynb)
+
+## Séance 3 : propositions TP "aléatoire"
+
+* **2ème proposition : éléments de bases**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Aleatoire3.ipynb)
