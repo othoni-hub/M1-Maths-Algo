@@ -32,7 +32,7 @@
 
 * **1ère proposition : variance de la somme de deux variables aléatoires indépendantes**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M1_MEEF_Maths_Les_bases_en_probabilités.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M1_MEEF_Maths_Somme_des_variances.ipynb)
 
 * **2ème proposition : éléments de bases**
 
