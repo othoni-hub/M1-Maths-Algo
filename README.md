@@ -32,4 +32,4 @@
 
 * **2ème proposition : éléments de bases**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M_1e_Tale_Aleatoire3.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/othoni-hub/M1-Maths-Algo/HEAD?filepath=M1_MEEF_Maths_Les_bases_en_probabilités.ipynb)
