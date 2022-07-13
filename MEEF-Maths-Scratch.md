@@ -1,5 +1,8 @@
 # **MEEF Maths - Scratch**
 
+[![hackmd-github-sync-badge](https://hackmd.io/sGLAKV35Q3KStYX1qOfR3g/badge)](https://hackmd.io/sGLAKV35Q3KStYX1qOfR3g)
+
+
 
 
 <img src="https://1000logos.net/wp-content/uploads/2020/10/Scratch-logo.png" width="600" height="160" align ="right"/>
